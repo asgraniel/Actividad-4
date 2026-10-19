@@ -1,0 +1,12 @@
+{
+  "name": "actividad-4",
+  "version": "1.0.0",
+  "description": "Catalogo",
+  "main": "A4.js",
+  "scripts": {
+    "start": "node A4.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
